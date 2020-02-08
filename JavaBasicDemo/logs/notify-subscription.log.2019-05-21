@@ -1,0 +1,24 @@
+2019-05-21 21:49:44,266 - SingletonUsingStaticInnerClass construct
+2019-05-21 21:50:42,130 - SingletonUsingStaticInnerClass construct
+2019-05-21 21:55:40,706 - SingletonUsingStaticInnerClass construct
+2019-05-21 21:58:17,343 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:17,343 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:33,083 - demo.SingletonDemo$SingletonNotThreadSafe constructor
+2019-05-21 21:58:53,393 - SingletonUsingStaticInnerClass construct
+2019-05-21 22:10:02,693 - construct:demo.SingletonDemo$SingletonUsingEnum
+2019-05-21 22:11:04,388 - construct:demo.SingletonDemo$SingletonUsingEnum
+2019-05-21 22:11:28,723 - construct:demo.SingletonDemo$SingletonUsingEnum
+2019-05-21 22:12:03,927 - construct:demo.SingletonDemo$SingletonUsingEnum

@@ -1,0 +1,61 @@
+2019-05-09 16:59:09,161 - hasNoFunc.size:16
+2019-05-09 16:59:09,164 - hasFunc.size:16
+2019-05-09 16:59:47,168 - hasNoFunc.size:96
+2019-05-09 16:59:47,172 - hasFunc.size:96
+2019-05-09 17:00:59,153 - hasNoFunc.size:class demo.HasNoFunc
+2019-05-09 17:00:59,297 - hasFunc.size:96
+2019-05-09 17:01:29,772 - hasNoFunc.size:96
+2019-05-09 17:01:29,780 - hasFunc.size:96
+2019-05-09 17:02:22,468 - hasNoFunc.size:96
+2019-05-09 17:02:22,479 - hasFunc.size:96
+2019-05-09 17:03:35,236 - hasNoFunc.class size:96
+2019-05-09 17:03:35,239 - hasFunc.class size:96
+2019-05-09 17:03:35,241 - sub class size:96
+2019-05-09 17:03:35,242 - super class size:96
+2019-05-09 17:04:09,284 - hasNoFunc.class size:96
+2019-05-09 17:04:09,288 - hasFunc.class size:96
+2019-05-09 17:04:09,294 - sub class size:96
+2019-05-09 17:04:09,295 - super class size:96
+2019-05-09 17:05:10,318 - hasNoFunc.obj size:16
+2019-05-09 17:05:10,319 - hasFunc.obj size:16
+2019-05-09 17:07:17,085 - hasNoFunc.class size:96
+2019-05-09 17:07:17,090 - hasFunc.class size:96
+2019-05-09 17:07:17,093 - sub class size:96
+2019-05-09 17:07:17,093 - super class size:96
+2019-05-09 18:37:00,365 - hasNoFunc.class size:96
+2019-05-09 18:37:00,370 - hasFunc.class size:96
+2019-05-09 18:37:00,372 - sub class size:96
+2019-05-09 18:37:00,372 - super class size:96
+2019-05-09 18:37:48,707 - hasNoFunc.class size:96
+2019-05-09 18:37:48,710 - hasFunc.class size:96
+2019-05-09 18:37:48,727 - sub class size:96
+2019-05-09 18:37:48,727 - super class size:96
+2019-05-09 18:38:04,521 - hasNoFunc.class size:96
+2019-05-09 18:38:04,544 - hasFunc.class size:96
+2019-05-09 18:38:04,548 - sub class size:96
+2019-05-09 18:38:04,548 - super class size:96
+2019-05-09 18:38:27,394 - hasNoFunc.obj size:16
+2019-05-09 18:38:27,395 - hasFunc.obj size:16
+2019-05-09 18:39:27,717 - hasNoFunc.obj size:16
+2019-05-09 18:39:27,718 - hasFunc.obj size:16
+2019-05-09 18:41:33,069 - hasNoFunc.obj size:16
+2019-05-09 18:41:33,070 - hasFunc.obj size:16
+2019-05-09 18:41:33,072 - SubForSize.obj size:16
+2019-05-09 18:41:33,072 - SuperForSize.obj size:16
+2019-05-09 18:43:56,932 - hasNoFunc.class size:96
+2019-05-09 18:43:56,935 - hasFunc.class size:96
+2019-05-09 18:43:56,936 - sub class size:96
+2019-05-09 18:43:56,937 - super class size:96
+2019-05-09 18:44:00,708 - hasNoFunc.obj size:40
+2019-05-09 18:44:00,709 - hasFunc.obj size:16
+2019-05-09 18:44:00,710 - SubForSize.obj size:16
+2019-05-09 18:44:00,710 - SuperForSize.obj size:16
+2019-05-09 21:45:39,779 - hasNoFunc.obj size:40
+2019-05-09 21:45:39,806 - hasFunc.obj size:16
+2019-05-09 21:45:39,807 - SubForSize.obj size:16
+2019-05-09 21:45:39,807 - SuperForSize.obj size:16
+2019-05-09 21:45:39,808 - EmptyForSize.obj size:16
+2019-05-09 21:46:42,021 - hasNoFunc.class size:96
+2019-05-09 21:46:42,027 - hasFunc.class size:96
+2019-05-09 21:46:42,029 - sub class size:96
+2019-05-09 21:46:42,029 - super class size:96
