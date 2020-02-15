@@ -9,18 +9,28 @@ public class OverrideDemo {
             return 0;
         }
 
+        static final void fun(){
+          System.out.println('A');
+        }
+
     }
     static class B extends A{
-        //override å¿…é¡»è¿”å›å€¼å’Œå½¢å‚ä¸çˆ¶ç±»ä¸€æ ·ã€‚
+        //override ±ØĞë·µ»ØÖµºÍĞÎ²ÎÓë¸¸ÀàÒ»Ñù¡£
         @Override
         int a1(int i) {
             System.out.println(s);
             return 0;
         }
+
+        static final void fun(){
+          System.out.println('B');
+        }
     }
 
     public static void main(String[] args) {
         A a = new B();
-        a.a1(1);
+        a.fun();//A.fun()
+        B b = new B();
+        b.fun();//B.fun()
     }
 }

@@ -1,0 +1,4 @@
+Windows
+g++ server_win_UDP.cpp -lwsock32 -o ./x86/server.exe
+g++ client_win_UDP.cpp -lwsock32 -o ./x86/client.exe
+
