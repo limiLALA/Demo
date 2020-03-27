@@ -1,5 +1,5 @@
 class a{
-private:
+protected:
 	void fun(){}
 };
 
@@ -7,7 +7,3 @@ class b: a{
 public:
 	void fun(){}
 };
-
-int main(){
-	return 0;
-}
